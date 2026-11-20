@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "增强提示词按钮",
+    "description": "在输入框模型选择器左侧增加增强提示词按钮，使用 WorkBuddy 原版提示词与交互逻辑，一键改写草稿并支持恢复原文。",
+    "detail": "docs/DETAIL.md"
+  }
+}

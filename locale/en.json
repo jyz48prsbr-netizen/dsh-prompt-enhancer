@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Prompt Enhancer Button",
+    "description": "Adds an Enhance Prompt button to the left of the model picker, using WorkBuddy's original prompts and interaction logic to rewrite the draft with one-click restore.",
+    "detail": "docs/DETAIL.md"
+  }
+}
